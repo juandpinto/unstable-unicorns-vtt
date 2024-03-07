@@ -7,7 +7,7 @@ This is a fan-made version of the game [Unstable Unicorns](https://www.unstableg
 
 Unstable Unicorns can be played for free on [virtualtabletop.io](https://virtualtabletop.io) (VTT). Our plan is to include the finished game in the VTT public library. While it is still in development, you can play it by following these steps:
 
-- Download the latest release `.vtt` file.
+- Download the latest release `.vtt` file from the [releases page](https://github.com/juandpinto/unstable-unicorns-vtt/releases) of this repository.
 - Visit [virtualtabletop.io](https://virtualtabletop.io), click **ADD GAME** on the top right, and use the **UPLOAD FILES** feature to select the `.vtt` file you downloaded.
 - Enjoy! You can invite your friends to play in the same room by sharing the room link with them.
 
